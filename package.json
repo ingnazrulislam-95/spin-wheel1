@@ -1,0 +1,9 @@
+{
+  "name": "spin-wheel",
+  "version": "1.0.0",
+  "description": "Spin-the-wheel app with a Node backend that picks the winner server-side",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "check": "node --check server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
